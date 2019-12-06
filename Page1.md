@@ -29,7 +29,7 @@
 
 ```diff
 
-car x = 100;
+var x = 100;
 - var y = 200;
 + var y = 300;
 
