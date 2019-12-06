@@ -28,6 +28,6 @@
  ##  rule
 
 ```
-print("Hello, World!")
+printf("Hello, World!")
 
 ```
