@@ -15,3 +15,6 @@ Google as I said can be used to search about information on the internet in many
 
 Services such as 
 * Searching for [images](https://www.google.com/imghp?hl=en&tab=wi&authuser=0&ogbl)
+* Searching for [news](https://news.google.com/?hl=en-US&tab=in&gl=US&ceid=US:en)
+* [Translate](https://translate.google.com/?hl=en&tab=rT&authuser=0) words 
+* Use [GBS](https://www.google.com/maps?hl=en&tab=Tl&authuser=0) which locate where you are and look for you want to go 
