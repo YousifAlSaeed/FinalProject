@@ -4,7 +4,7 @@
 ## Definition  
  Google is the most famous search enging on the internet, and most people who use internet use google. 
  
- Google was issued in September 4, 1998 and was founded by Larry Page and Sergey Brin
+ Google was issued in **September 4, 1998**, and was founded by _Larry Page_ and _Sergey Brin_
  
  
  #### Here is the logo of google, and underneath it is the link to it.
