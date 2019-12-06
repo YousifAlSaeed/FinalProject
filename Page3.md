@@ -21,13 +21,13 @@ There are many kinds of videos you can find in youtube such as:
 * Vlogging 
 * Music 
 
-these are the main kinds of videos that can be found on youtube
+##### these are the main kinds of videos that can be found on youtube
 ---
 
 ### Uses of Youtube
 Unlike Google, the only use of youtube is to watch videos on it, but as a user you can register and upload your own videos on it.
 
-If your videos are highly liked by the people, many sponsers may contact you to sponser your videos, and you can gain money from it. some people use youtube as their full time job because they like what they are doing and creating to people. 
+##### If your videos are highly liked by the people, many sponsers may contact you to sponser your videos, and you can gain money from it. some people use youtube as their full time job because they like what they are doing and creating to people. 
 ---
 
 
