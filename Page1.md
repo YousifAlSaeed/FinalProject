@@ -27,8 +27,10 @@
  ---
  ##  rule
 
-```js
+```diff
 
-echo "Hello"
+var x = 100;
+- var y = 200;
++ var y = 300;
 
 ```
