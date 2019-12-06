@@ -27,7 +27,7 @@
  ---
  ##  rule
 
-```
+```py
 
 echo "Hello"
 
