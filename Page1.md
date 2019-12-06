@@ -28,6 +28,6 @@
  ##  rule
 
 ```
-printf("Hello, World!")
+echo "Hello"
 
 ```
