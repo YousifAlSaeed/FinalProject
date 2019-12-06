@@ -32,4 +32,4 @@ var x = 100;
 
 ```
 
-[Next Page 2](https://github.com/YousifAlSaeed/FinalProject/blob/master/Page2.md)
+[Main Page](https://github.com/YousifAlSaeed/FinalProject). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [Next Page 2](https://github.com/YousifAlSaeed/FinalProject/blob/master/Page2.md)
