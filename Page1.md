@@ -27,9 +27,10 @@
  ---
  ##  rule
 
-```js
+```diff
 
-var apples = 100 + 200;
-document.write(apples);
+car x = 100;
+- var y = 200;
++ var y = 300;
 
 ```
