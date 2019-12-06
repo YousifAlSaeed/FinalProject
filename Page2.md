@@ -27,6 +27,8 @@ Services such as:
 * Use [GBS](https://www.google.com/maps?hl=en&tab=Tl&authuser=0) which locate where you are and look for you want to go 
 
 and many other useful services that the user could benfit from. 
+---
+
 
 
 
