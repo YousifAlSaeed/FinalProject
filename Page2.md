@@ -26,7 +26,7 @@ Services such as:
 * [Translate](https://translate.google.com/?hl=en&tab=rT&authuser=0) words 
 * Use [GBS](https://www.google.com/maps?hl=en&tab=Tl&authuser=0) which locate where you are and look for you want to go 
 
-#### and many other useful services that the user could benfit from. 
+#### and [many](https://about.google/intl/en/products/?tab=ih&tip=here-to-help) other useful services that the user could benfit from. 
 ---
 
 
