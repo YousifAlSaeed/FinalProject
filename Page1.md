@@ -29,7 +29,7 @@
 
 ```js
 
-var x = 100 + 200;
-document.write(x);
+var apples = 100 + 200;
+document.write(apples);
 
 ```
