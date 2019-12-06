@@ -6,7 +6,8 @@
  
  Google was issued in September 4, 1998 and was founded by Larry Page and Sergey Brin
  
- Here is the logo of google, and underneath it is the link to it.
+ 
+ #### Here is the logo of google, and underneath it is the link to it.
  
  ![Google pciture](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png)
  
