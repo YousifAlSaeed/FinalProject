@@ -27,7 +27,7 @@
  ---
  ##  rule
 
-```diff
+```js
 
 var x = 100;
 - var y = 200;
