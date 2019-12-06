@@ -27,11 +27,11 @@
  ---
  ##  rule
 
-```js
+```diff
 
 var x = 100;
 - var y = 200;
 + var y = 300;
- document.write(x+y)
+ document.write(x+y);
 
 ```
