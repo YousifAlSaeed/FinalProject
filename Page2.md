@@ -6,6 +6,8 @@
  
  Google was issued in **September 4, 1998**, and was founded by _Larry Page_ and _Sergey Brin_
  
+ [<img src="https://specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=387&cropX2=1729&cropY1=118&cropY2=1460"> "this is Larry Page"
+ 
  
  #### Here is the logo of google, and underneath it is the link to it.
  
@@ -23,11 +25,11 @@ Services such as:
 * Use [GBS](https://www.google.com/maps?hl=en&tab=Tl&authuser=0) which locate where you are and look for you want to go 
 
 and many other useful services that the user could benfit from. 
- 
-  
-   
-    
-     
-      
-       
-         Previous [Page 1](https://github.com/YousifAlSaeed/FinalProject/blob/master/Page1.md)
+
+
+
+
+
+
+
+Previous [Page 1](https://github.com/YousifAlSaeed/FinalProject/blob/master/Page1.md)
