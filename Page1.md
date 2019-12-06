@@ -29,8 +29,7 @@
 
 ```js
 
-var x = 100;
-var y - 200;
- document.write(x + y);
+var x = 100 + 200;
+ document.write(x);
 
 ```
