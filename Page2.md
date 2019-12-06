@@ -6,7 +6,8 @@
  
  Google was issued in **September 4, 1998**, and was founded by _Larry Page_ and _Sergey Brin_
  
-![Larry Page](https://specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=387&cropX2=1729&cropY1=118&cropY2=1460 "This is Larry Page") [Sergey Brin](https://www.biography.com/.image/t_share/MTIwNjA4NjM0MDc3MjE4MzE2/sergey-brin-12103333-2-402.jpg "This is Sergey Brin")
+![Larry Page](https://specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=387&cropX2=1729&cropY1=118&cropY2=1460 "This is Larry Page") 
+[Sergey Brin](https://www.biography.com/.image/t_share/MTIwNjA4NjM0MDc3MjE4MzE2/sergey-brin-12103333-2-402.jpg "This is Sergey Brin")
  
  
  #### Here is the logo of google, and underneath it is the link to it.
