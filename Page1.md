@@ -32,7 +32,6 @@
 var x = 100;
 - var y = 200;
 + var y = 300;
-
-20x + 10y =
+ document.write(x+y)
 
 ```
