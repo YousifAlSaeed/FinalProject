@@ -28,5 +28,5 @@
  ##  rule
 
 ```
-printf(hello, world!)
+print(hello, world!)
 ```
