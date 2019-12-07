@@ -1,5 +1,5 @@
 # What is Twitter 
-twitter is a website that u can get sociallized with other people. twitter sepcialltiy is that the user only has 240 letters to write what he think about, and called a tweet inside twitter. what is known for is that people tweet about news and other stuff that is happenning in the daily life. users also, can cerate an endless sequnce of tweets that is called a thread. 
+twitter is a website that you can get sociallized with other people. twitter sepcialltiy is that the user only has 240 letters to write what he think about, and called a tweet inside twitter. what is known for is that people tweet about news and other stuff that is happenning in the daily life. users also, can cerate an endless sequnce of tweets that is called a thread. 
 
 
 ![Jack Dorsey](https://static01.nyt.com/images/2019/05/02/fashion/02JACK-1/02JACK-1-articleLarge.jpg?quality=75&auto=webp&disable=upscale "This is Jack Dorsey")
