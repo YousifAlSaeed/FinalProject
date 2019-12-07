@@ -3,7 +3,7 @@
  _This is supposed to be an **italicized** sentence_  
  **And this is supposed to be a _bold_ sentecnce**   
  
- ![A picture of a sea, a boat, and a bridge](https://f.dale.onl/mu/all/photos/BayBridge.jpg)
+ ![Arorua](https://stores.selzstatic.com/nvyn50kugf4/assets/settings/lightscape-735108-unsplash.jpg?v=20190315040845)
 
  
  to program you need 
