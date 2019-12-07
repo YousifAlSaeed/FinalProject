@@ -14,15 +14,10 @@
  
  
  to attend a class you have to 
- 1. take the shuttle bus
+ 1. I need to get to the shuttle bus
  2. enter the classroom 
  
- 
- |Name| Age |
- |:---|:----|
- |Yousif|18|
- |Mohammed|19|
- 
+
 
 ```diff
 
